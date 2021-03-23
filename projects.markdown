@@ -9,7 +9,7 @@ Recently I've had a lot of fun making map visualizations using [Leaflet for R](h
 
 ### Child Care Availability in Boston by Census Tract
 <div style="display: flex; box-sizing: border-box">
-    <iframe src="/assets/dataviz/ChildcareAvailability" style="width:1000px; height:410px; padding: 20px;" frameborder="0" title = "Child Care Availability in Boston, MA by Census Tract"></iframe>
+    <iframe src="/assets/dataviz/ChildcareAvailability" style="width:1000px; height:420px; padding: 20px;" frameborder="0" title = "Child Care Availability in Boston, MA by Census Tract"></iframe>
 </div>
 
 ### 2020 Presidential Election Results in Rockland County
