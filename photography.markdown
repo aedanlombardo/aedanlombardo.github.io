@@ -52,27 +52,3 @@ I started taking photos because I found several old film cameras in my parents' 
         <img src='/assets/photos/negative30-2.jpg'/>
     </div>
 </div>
-
-<!-- <div style="text-align: center;">
-    <img style="padding-bottom: 20px; padding-top: 20px" src="/assets/photos/negative21.jpg" />
-</div>
-
-<div style="text-align: center;">
-    <img style="padding-bottom: 20px; padding-top: 20px" src="/assets/photos/negative_10.jpg" />
-</div>
-
-<div style="text-align: center;">
-    <img style="padding-bottom: 20px; padding-top: 20px" src="/assets/photos/negative_0027.jpg" />
-</div>
-
-<div style="text-align: center;">
-    <img style="padding-bottom: 20px; padding-top: 20px" src="/assets/photos/negative08.jpg" />
-</div>
-
-<div style="text-align: center;">
-    <img style="padding-bottom: 20px; padding-top: 20px" src="/assets/photos/P1350208.jpg" />
-</div>
-
-<div style="text-align: center;">
-    <img style="padding-bottom: 20px; padding-top: 20px" src="/assets/photos/negative62.jpg" />
-</div> -->

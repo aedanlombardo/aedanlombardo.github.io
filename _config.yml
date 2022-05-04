@@ -21,11 +21,10 @@
 title: Aedan Lombardo
 email: aclombardo3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal site! I'm a freelance data analyst/scientist, R programmer
+  Welcome to my personal site! I'm a data scientist, R programmer
   and amateur film photographer. Feel free to shoot me an email if you have any questions about my work!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: aedanlombardo
 linkedin_username: aedanlombardo
 github_username:  aedanlombardo
 
