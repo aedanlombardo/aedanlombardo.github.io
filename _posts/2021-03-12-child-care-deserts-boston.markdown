@@ -214,7 +214,7 @@ browsable(
 ```
 The output was a styled interactive map (thanks Leaflet!) showing child care seats per child in every census tract in Boston:
 <div style="display: flex; box-sizing: border-box">
-    <iframe src="/assets/ChildcareAvailability" style="width:1000px; height:400px; padding: 20px;" frameborder="0" title = "Child Care Availability in Boston, MA by Census Tract"></iframe>
+    <iframe src="/assets/dataviz/ChildcareAvailability.html" style="width:1000px; height:400px; padding: 20px;" frameborder="0" title = "Child Care Availability in Boston, MA by Census Tract"></iframe>
 </div>
 As you can see pretty clearly from the large swaths of orange, there is a lack of local child care options for a huge number of Boston families, particularly those that live further from the city center.
 
